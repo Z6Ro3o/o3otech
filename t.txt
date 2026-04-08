@@ -1,2 +1,2 @@
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Z6Ro3o/o3otech/main/o3o.exe" -OutFile "$env:USERPROFILE\o3o.exe"
-Start-Process "$env:USERPROFILE\o3o.exe"
+Test-Path "$env:USERPROFILE\o3o.exe"
